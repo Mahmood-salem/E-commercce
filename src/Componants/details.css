@@ -1,0 +1,12 @@
+.center {
+    width: 20rem !important;
+
+}
+
+.details {
+    width: 37% !important;
+}
+
+.details-img {
+    max-height: 250px !important;
+}
